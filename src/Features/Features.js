@@ -1,6 +1,6 @@
 import React from 'react'
 import slugify from 'slugify'
-import FeatureOptions from './FeatureOptions';
+import FeatureOptions from './FeatureOptions.js';
 
 export default function FeatureItem({
 	feature,
